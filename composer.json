@@ -1,9 +1,9 @@
 {
-    "name": "kriswallsmith/assetic",
-    "version": "2.0.1",
+    "name": "s-andronnikov/assetic",
+    "version": "2.0.2",
     "description": "Asset Management for PHP",
     "keywords": [ "assets", "compression", "minification" ],
-    "homepage": "https://github.com/kriswallsmith/assetic",
+    "homepage": "https://github.com/s-andronnikov/assetic.git",
     "type": "library",
     "license": "MIT",
     "authors": [
